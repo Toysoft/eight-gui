@@ -198,6 +198,8 @@ class ModelPic(Screen):
                         model = "et9x00.jpg"
                 elif getBoxType() in ('et10000'):
                         model = "et10000.jpg"
+		elife getBoxType() in ('vusolo2, vuuno, vuduo2'):
+			model = "vusolo2"
                 else:
                         model = None
                         
